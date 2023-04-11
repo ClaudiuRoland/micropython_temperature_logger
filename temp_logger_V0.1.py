@@ -107,6 +107,6 @@ log_tempC()
 print("Going into deepsleep in 3 seconds...")
 utime.sleep(3)
 blink()
-#deep_sleep(60000)
+deep_sleep(60000)
 
 
